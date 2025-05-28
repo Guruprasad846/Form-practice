@@ -1,0 +1,20 @@
+body {
+  background-color: rgba(0, 0, 0, 0.343) !important;
+}
+.modal-content img {
+  max-width: 100%;
+  max-height: 100%;
+  /* opacity: 30%; */
+}
+/* .navbar {
+  position: relative !important;
+  top: 50% !important;
+} */
+.modal-content button {
+  position: absolute;
+  top: 5%;
+  left: 92%;
+}
+.carousel-inner img {
+  max-height: 500px;
+}
